@@ -1,0 +1,14 @@
+{
+  "name": "googlebooks",
+  "version": "1.0.0",
+  "description": "Here you can find, your favorite books.",
+  "main": "index.js index.html index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "books"
+  ],
+  "author": "Ivan Ivanov",
+  "license": "Apache-2.0"
+}
